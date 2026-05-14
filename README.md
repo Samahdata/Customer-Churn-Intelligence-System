@@ -82,8 +82,7 @@ By targeting the **top 20% highest-risk customers**, the model catches **48.4% o
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/customer-churn-prediction.git
-cd customer-churn-prediction
+git clone https://github.com/Samahdata/Customer-Churn-Intelligence-System.git
 ```
 
 2. Install dependencies:
